@@ -1,0 +1,1 @@
+This directory includes the starter project for the lab.
